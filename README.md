@@ -9,8 +9,8 @@ Pronouns: He/Him
 
 Email: shreyanshjain9760003675@gmail.com
 
-👀 Collaboration:
-Open to collaborating on exciting open-source projects. Let’s build something awesome together! 💡
+Collaboration:
+Open to collaborating on exciting open-source projects. Let’s build something awesome together! 👀💡
 
 <!---
 shrey-git12/shrey-git12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
