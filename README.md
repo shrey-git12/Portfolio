@@ -1,6 +1,6 @@
-Shreyansh Jain 🚀
-About Me
+Shreyansh Jain.
 
+About Me🚀
 Data enthusiast with a passion for analytics and development
 I am currently learning Python and diving into the world of data science.
 Fun fact: I’m an avid gamer 🎮
